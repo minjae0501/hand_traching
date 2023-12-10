@@ -1,0 +1,8 @@
+names:
+- '0'
+- '1'
+- '2'
+nc: 3
+test: /content/drive/MyDrive/00DataScience/ds_study/DLproject/hand_movement/data/data_ver2-2_fullData/test
+train: /content/drive/MyDrive/00DataScience/ds_study/DLproject/hand_movement/data/data_ver2-2_fullData/train
+val: /content/drive/MyDrive/00DataScience/ds_study/DLproject/hand_movement/data/data_ver2-2_fullData/val
