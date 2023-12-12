@@ -2,6 +2,6 @@ names:
 - blue_eraser
 - red_eraser
 nc: 2
-test: /content/drive/MyDrive/00DataScience/ds_study/DLproject/yolo_eraser/data/test
-train: /content/drive/MyDrive/00DataScience/ds_study/DLproject/yolo_eraser/data/train
-val: /content/drive/MyDrive/00DataScience/ds_study/DLproject/yolo_eraser/data/val
+test: /content/drive/MyDrive/Deep_learning_Team_PJ/hand_tracing/yolo_eraser/data/test/
+train: /content/drive/MyDrive/Deep_learning_Team_PJ/hand_tracing/yolo_eraser/data/train/
+val: /content/drive/MyDrive/Deep_learning_Team_PJ/hand_tracing/yolo_eraser/data/val/
