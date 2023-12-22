@@ -1,8 +1,8 @@
 
-eraser_mouse_hand - v2 2023-12-22 8:16pm
+eraser_mouse_hand - v3 2023-12-22 9:15pm
 ==============================
 
-This dataset was exported via roboflow.com on December 22, 2023 at 11:16 AM GMT
+This dataset was exported via roboflow.com on December 22, 2023 at 12:15 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,13 +17,14 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 320 images.
+The dataset includes 648 images.
 Eraser-mouse-hand-grab_eraser are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
 * Resize to 640x640 (Stretch)
 
-No image augmentation techniques were applied.
+The following augmentation was applied to create 2 versions of each source image:
+* Random rotation of between -15 and +15 degrees
 
 
