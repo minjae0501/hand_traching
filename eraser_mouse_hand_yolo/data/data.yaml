@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['eraser', 'grab_eraser', 'grab_mouse', 'hand', 'mouse']
+
+roboflow:
+  workspace: project-kycel
+  project: eraser_mouse_hand
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/project-kycel/eraser_mouse_hand/1
